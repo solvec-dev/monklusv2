@@ -91,7 +91,7 @@ export default function MonklusWebsite() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
                     <div className="flex items-center gap-0 text-2xl font-bold text-blue-900 tracking-wide">
                         <a href="/"><img src="./images/logo_monklus.png" className="w-full max-w-[80%] h-auto block" alt="Monklus renovatie" /></a>
-                        <span><a href="/">MonKlus</a></span>                        
+                        <span><a href="/">MONKLUS</a></span>                        
                     </div>
                     <nav className="hidden md:flex space-x-8 font-medium text-slate-600">
                         <a href="#over" className="hover:text-blue-900 transition">Over Ons</a>
