@@ -283,7 +283,7 @@ export default function MonklusWebsite() {
                         </div>
                         <div className="flex items-center gap-3">
                             <Phone className="h-5 w-5 text-amber-500" />
-                            <span>Telefoonnumer</span>
+                            <span>06 - 28 371 991</span>
                         </div>
                         <div className="flex items-center gap-3">
                             <Mail className="h-5 w-5 text-amber-500" />
