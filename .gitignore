@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.next/cache/webpack/client-development/5.pack.gz
+/.next/cache/webpack/client-development/index.pack.gz
+/.next/cache/webpack/client-development/index.pack.gz.old
+/.next/cache/webpack/server-development/5.pack.gz
+/.next/cache/webpack/server-development/index.pack.gz
+/.next/cache/webpack/server-development/index.pack.gz.old
