@@ -611,6 +611,12 @@ video {
 .h-full {
   height: 100%;
 }
+.h-10 {
+  height: 2.5rem;
+}
+.h-auto {
+  height: auto;
+}
 .min-h-screen {
   min-height: 100vh;
 }
@@ -623,6 +629,9 @@ video {
 .w-full {
   width: 100%;
 }
+.w-48 {
+  width: 12rem;
+}
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -634,6 +643,12 @@ video {
 }
 .max-w-7xl {
   max-width: 80rem;
+}
+.max-w-\[25\%\] {
+  max-width: 25%;
+}
+.max-w-\[80\%\] {
+  max-width: 80%;
 }
 .shrink-0 {
   flex-shrink: 0;
@@ -674,6 +689,9 @@ video {
 }
 .gap-6 {
   gap: 1.5rem;
+}
+.gap-0 {
+  gap: 0px;
 }
 .space-x-8 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
