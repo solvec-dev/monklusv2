@@ -31,7 +31,7 @@ const projecten = [
         desc: "Weersbestendige coating ter verfraaiing en bescherming."
     },
     {
-        url: "./images/img_5207.jpg",
+        url: "./images/IMG_5207.jpg",
         title: "Dakbedekking",
         desc: "Nieuwe deklaag in combinatie met isolatie voor uw dak."
     },
