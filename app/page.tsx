@@ -19,6 +19,26 @@ const projecten = [
         url: "./images/1.jpg",
         title: "Constructieve Uitbouw",
         desc: "Meer leefruimte en lichtinval gecreëerd."
+    },
+    {
+        url: "./images/20220225_144108.jpg",
+        title: "Parketvloer in visgraat motief",
+        desc: "Duurzame vloeren die de tand des tijds doorstaan."
+    },
+    {
+        url: "./images/20160408_125650.jpg",
+        title: "Schilderwerk buitenboel",
+        desc: "Weersbestendige coating ter verfraaiing en bescherming."
+    },
+    {
+        url: "./images/img_5207.jpg",
+        title: "Dakbedekking",
+        desc: "Nieuwe deklaag in combinatie met isolatie voor uw dak."
+    },
+    {
+        url: "./images/IMG-20260330-WA0000.jpg",
+        title: "Metselwerk",
+        desc: "Ambachtelijk metsel- en voegwerk voor aanbouw en renovatie."
     }
 ];
 
