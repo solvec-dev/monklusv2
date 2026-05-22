@@ -119,7 +119,7 @@ export default function MonklusWebsite() {
                         <a href="#projecten" className="hover:text-blue-900 transition">Projecten</a>
                         <a href="#contact" className="hover:text-blue-900 transition">Contact</a>
                     </nav>
-                    <a href="#contact" className="bg-amber-500 hover:bg-amber-600 text-slate-900 px-5 py-2.5 rounded-md font-semibold transition">
+                    <a href="#contact" className="bg-amber-500 hover:bg-amber-600 text-slate-900 px-4 py-2.5 rounded-md font-semibold transition">
                         Offerte Aanvragen
                     </a>
                 </div>
