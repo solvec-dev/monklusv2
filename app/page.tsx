@@ -165,7 +165,7 @@ export default function MonklusWebsite() {
                         Door de jaren heen hebben wij gewerkt aan uiteenlopende projecten: van woningen en appartementen tot bedrijfspanden en restauraties. Onze kracht ligt in het combineren van traditioneel vakmanschap met moderne technieken en materialen.
                     </p>
                     <p className="text-slate-600 leading-relaxed">
-                        Wij begrijpen dat een verbouwing or renovatie een belangrijke investering is. Daarom vinden wij persoonlijk contact, betrouwbaarheid en transparantie minstens zo belangrijk als het eindresultaat.
+                        Wij begrijpen dat een verbouwing of renovatie een belangrijke investering is. Daarom vinden wij persoonlijk contact, betrouwbaarheid en transparantie minstens zo belangrijk als het eindresultaat.
                     </p>
                 </div>
                 <div className="bg-blue-900 text-white p-8 rounded-xl shadow-md">
