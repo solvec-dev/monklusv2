@@ -39,16 +39,6 @@ const projecten = [
         url: "./images/IMG-20260330-WA0000.jpg",
         title: "Metselwerk",
         desc: "Ambachtelijk metsel- en voegwerk voor aanbouw en renovatie."
-    },
-    {
-        url: "./images/20260323_105515.jpg",
-        title: "Dakisolatie",
-        desc: "Renovatie van het dak met modern isolatiemateriaal (Voor)."
-    },
-    {
-        url: "./images/20260701_082755.jpg",
-        title: "Dakisolatie",
-        desc: "Renovatie van het dak met modern isolatiemateriaal (Na)."
     }
 ];
 
