@@ -39,6 +39,26 @@ const projecten = [
         url: "./images/IMG-20260330-WA0000.jpg",
         title: "Metselwerk",
         desc: "Ambachtelijk metsel- en voegwerk voor aanbouw en renovatie."
+    },
+    {
+        url: "./images/2026-11-09-20-11-06.jpg",
+        title: "Kozijn achtergevel",
+        desc: "Vervanging van oude kozijnen met moderne, energiezuinige varianten."
+    },
+    {
+        url: "./images/2026-11-09-20-11-07.jpg",
+        title: "Uitbouw met nieuwe kozijnen",
+        desc: "Vervangen van oude kozijnen met moderne, energiezuinige varianten."
+    },
+    {
+        url: "./images/2026-11-09-20-14-18 2.jpg",
+        title: "Voordeur",
+        desc: "Plaatsing van een nieuwe voordeur met verbeterde isolatie en politie keurmerk."
+    },
+    {
+        url: "./images/2026-11-09-20-14-18.jpg",
+        title: "Metselwerk",
+        desc: "Herstel van metselwerk."
     }
 ];
 
