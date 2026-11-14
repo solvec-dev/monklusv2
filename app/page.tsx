@@ -57,8 +57,8 @@ const projecten = [
     },
     {
         url: "./images/2026-11-09-20-14-18.jpg",
-        title: "Metselwerk",
-        desc: "Herstel van metselwerk."
+        title: "Nieuw houten kozijn",
+        desc: "Plaatsing hardhouten kozijn."
     }
 ];
 
